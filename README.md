@@ -1,4 +1,4 @@
-# Arduino HC-05 Bluetooth code to send command to open garage door with DIY Arduino Board.
+# Android HC-05 Bluetooth code to send command to open garage door with DIY Arduino Board.
 This is a simple android application that connects to an HC-05 Bluetooth module connected to an arduino board that can be used to open an close a garage door.
 
 ## Video on how to write the arduino code and connect the device
